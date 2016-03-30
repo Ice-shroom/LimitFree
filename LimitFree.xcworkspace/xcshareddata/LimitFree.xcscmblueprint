@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B4209CF40595828B6817D9129903DA5382B13294",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B4209CF40595828B6817D9129903DA5382B13294" : 0,
+    "E30500DBDD9CA5EAE55BD0EB6BB40DF3F7ACB7CD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6DA28F96-5FEC-4456-A360-6753BBA78069",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B4209CF40595828B6817D9129903DA5382B13294" : "LimitFree\/",
+    "E30500DBDD9CA5EAE55BD0EB6BB40DF3F7ACB7CD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LimitFree",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LimitFree.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ice-shroom\/LimitFree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4209CF40595828B6817D9129903DA5382B13294"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ice-shroom\/LimitFree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E30500DBDD9CA5EAE55BD0EB6BB40DF3F7ACB7CD"
+    }
+  ]
+}

@@ -19,4 +19,6 @@
 
 @property(nonatomic,copy) NSString * searchText;
 
+- (void)customNavigationItem;
+
 @end

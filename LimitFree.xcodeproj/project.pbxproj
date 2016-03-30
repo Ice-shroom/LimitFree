@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		5AA51F4C4D4E09FBBE76620F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A71124BA291B45FCCB9699F5 /* libPods.a */; };
+		BC1C928E1CAB5F6A00CDFC44 /* BaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1C928D1CAB5F6A00CDFC44 /* BaseModel.m */; };
+		BC1C92911CAB601F00CDFC44 /* AppListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1C92901CAB601F00CDFC44 /* AppListModel.m */; };
+		BC1C92951CAB709100CDFC44 /* ApplistCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1C92931CAB709100CDFC44 /* ApplistCell.m */; };
+		BC1C92961CAB709100CDFC44 /* ApplistCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC1C92941CAB709100CDFC44 /* ApplistCell.xib */; };
+		BC1C92981CAB837B00CDFC44 /* Reveal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC1C92971CAB837B00CDFC44 /* Reveal.framework */; };
+		BC1C929B1CABACF300CDFC44 /* starView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1C929A1CABACF300CDFC44 /* starView.m */; };
+		BC1C929F1CABC07B00CDFC44 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1C929E1CABC07B00CDFC44 /* SearchViewController.m */; };
 		BC1F088C1CAA20220016848C /* TabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1F088B1CAA20220016848C /* TabBarViewController.m */; };
 		BC1F093A1CAA206A0016848C /* Controllers.plist in Resources */ = {isa = PBXBuildFile; fileRef = BC1F088E1CAA206A0016848C /* Controllers.plist */; };
 		BC1F093B1CAA206A0016848C /* account_candou.png in Resources */ = {isa = PBXBuildFile; fileRef = BC1F08911CAA206A0016848C /* account_candou.png */; };
@@ -199,6 +206,18 @@
 		2881E26F46C80FE30E620ABA /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		405451DE6C1DE70F02C18B50 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		A71124BA291B45FCCB9699F5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC1C928C1CAB5F6A00CDFC44 /* BaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseModel.h; sourceTree = "<group>"; };
+		BC1C928D1CAB5F6A00CDFC44 /* BaseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseModel.m; sourceTree = "<group>"; };
+		BC1C928F1CAB601F00CDFC44 /* AppListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppListModel.h; sourceTree = "<group>"; };
+		BC1C92901CAB601F00CDFC44 /* AppListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppListModel.m; sourceTree = "<group>"; };
+		BC1C92921CAB709100CDFC44 /* ApplistCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ApplistCell.h; sourceTree = "<group>"; };
+		BC1C92931CAB709100CDFC44 /* ApplistCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ApplistCell.m; sourceTree = "<group>"; };
+		BC1C92941CAB709100CDFC44 /* ApplistCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ApplistCell.xib; sourceTree = "<group>"; };
+		BC1C92971CAB837B00CDFC44 /* Reveal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Reveal.framework; sourceTree = "<group>"; };
+		BC1C92991CABACF300CDFC44 /* starView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = starView.h; sourceTree = "<group>"; };
+		BC1C929A1CABACF300CDFC44 /* starView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = starView.m; sourceTree = "<group>"; };
+		BC1C929D1CABC07B00CDFC44 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		BC1C929E1CABC07B00CDFC44 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
 		BC1F088A1CAA20220016848C /* TabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarViewController.h; sourceTree = "<group>"; };
 		BC1F088B1CAA20220016848C /* TabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarViewController.m; sourceTree = "<group>"; };
 		BC1F088E1CAA206A0016848C /* Controllers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Controllers.plist; sourceTree = "<group>"; };
@@ -397,6 +416,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AA51F4C4D4E09FBBE76620F /* libPods.a in Frameworks */,
+				BC1C92981CAB837B00CDFC44 /* Reveal.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,9 +447,23 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		BC1C929C1CABC04B00CDFC44 /* 搜索页面 */ = {
+			isa = PBXGroup;
+			children = (
+				BC1C929D1CABC07B00CDFC44 /* SearchViewController.h */,
+				BC1C929E1CABC07B00CDFC44 /* SearchViewController.m */,
+			);
+			name = "搜索页面";
+			sourceTree = "<group>";
+		};
 		BC1F08831CAA18D30016848C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BC1C92921CAB709100CDFC44 /* ApplistCell.h */,
+				BC1C92931CAB709100CDFC44 /* ApplistCell.m */,
+				BC1C92941CAB709100CDFC44 /* ApplistCell.xib */,
+				BC1C92991CABACF300CDFC44 /* starView.h */,
+				BC1C929A1CABACF300CDFC44 /* starView.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -437,6 +471,7 @@
 		BC1F08841CAA18DA0016848C /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				BC1C929C1CABC04B00CDFC44 /* 搜索页面 */,
 				BC1F09EB1CAA216C0016848C /* 热榜页面 */,
 				BC1F09E71CAA21540016848C /* 专题页面 */,
 				BC1F09E31CAA21370016848C /* 免费页面 */,
@@ -455,6 +490,10 @@
 		BC1F08851CAA18E40016848C /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				BC1C928C1CAB5F6A00CDFC44 /* BaseModel.h */,
+				BC1C928F1CAB601F00CDFC44 /* AppListModel.h */,
+				BC1C92901CAB601F00CDFC44 /* AppListModel.m */,
+				BC1C928D1CAB5F6A00CDFC44 /* BaseModel.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -813,6 +852,7 @@
 		D6C018231CAA159E00E89CBB /* LimitFree */ = {
 			isa = PBXGroup;
 			children = (
+				BC1C92971CAB837B00CDFC44 /* Reveal.framework */,
 				BC1F08891CAA19690016848C /* Resource */,
 				BC1F08881CAA19610016848C /* Macro */,
 				BC1F08871CAA190F0016848C /* vendor */,
@@ -1021,6 +1061,7 @@
 				BC1F09C11CAA206A0016848C /* filedd.png in Resources */,
 				BC1F09711CAA206A0016848C /* category_News.jpg in Resources */,
 				BC1F09861CAA206A0016848C /* Detail_btn_left.png in Resources */,
+				BC1C92961CAB709100CDFC44 /* ApplistCell.xib in Resources */,
 				BC1F097F1CAA206A0016848C /* appproduct_appdefault@2x.png in Resources */,
 				BC1F097A1CAA206A0016848C /* appdetail_background.png in Resources */,
 				BC1F09B61CAA206A0016848C /* topic_Comment@2x.png in Resources */,
@@ -1172,12 +1213,17 @@
 				BC1F09EE1CAA21790016848C /* HotViewController.m in Sources */,
 				BC1F09F11CAA26A30016848C /* BaseViewController.m in Sources */,
 				BC1F09E61CAA214B0016848C /* FreeViewController.m in Sources */,
+				BC1C92911CAB601F00CDFC44 /* AppListModel.m in Sources */,
+				BC1C928E1CAB5F6A00CDFC44 /* BaseModel.m in Sources */,
 				BC1F09EA1CAA215E0016848C /* SubjectViewController.m in Sources */,
 				BC1F09F41CAA2CE60016848C /* AppListViewController.m in Sources */,
+				BC1C929F1CABC07B00CDFC44 /* SearchViewController.m in Sources */,
 				D6C0182A1CAA159E00E89CBB /* AppDelegate.m in Sources */,
 				BC1F09E21CAA21290016848C /* ReduceViewController.m in Sources */,
 				BC1F088C1CAA20220016848C /* TabBarViewController.m in Sources */,
+				BC1C929B1CABACF300CDFC44 /* starView.m in Sources */,
 				BC1F09DE1CAA210D0016848C /* LimitViewController.m in Sources */,
+				BC1C92951CAB709100CDFC44 /* ApplistCell.m in Sources */,
 				D6C018271CAA159E00E89CBB /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1306,9 +1352,71 @@
 			baseConfigurationReference = 405451DE6C1DE70F02C18B50 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/LimitFree",
+				);
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LimitFree/PrefixHeader.pch";
 				INFOPLIST_FILE = LimitFree/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"AFNetworking\"",
+					"-l\"DateTools\"",
+					"-l\"FMDB\"",
+					"-l\"KVNProgress\"",
+					"-l\"MBProgressHUD\"",
+					"-l\"MJRefresh\"",
+					"-l\"Masonry\"",
+					"-l\"SDWebImage\"",
+					"-l\"SocialInstagram\"",
+					"-l\"SocialLaiWang\"",
+					"-l\"SocialLine\"",
+					"-l\"SocialQQ\"",
+					"-l\"SocialSina\"",
+					"-l\"SocialSinaSSO\"",
+					"-l\"SocialTumblr\"",
+					"-l\"SocialWechat\"",
+					"-l\"SocialWhatsapp\"",
+					"-l\"UMSocial_Sdk_4.2.5\"",
+					"-l\"UMSocial_Sdk_Comment_4.2.5\"",
+					"-l\"WeChatSDK\"",
+					"-l\"WeiboSDK\"",
+					"-l\"YYModel\"",
+					"-l\"iconv\"",
+					"-l\"sqlite3\"",
+					"-l\"stdc++\"",
+					"-l\"z\"",
+					"-framework",
+					"\"CoreFoundation\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreTelephony\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"GLKit\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"MobileCoreServices\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"Security\"",
+					"-framework",
+					"\"SystemConfiguration\"",
+					"-framework",
+					"\"TencentOpenAPI\"",
+					"-framework",
+					"\"UIKit\"",
+					"-ObjC",
+					"-lz",
+					"-framework",
+					Reveal,
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "me.chaosky.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -1319,9 +1427,71 @@
 			baseConfigurationReference = 2881E26F46C80FE30E620ABA /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/LimitFree",
+				);
 				GCC_PREFIX_HEADER = "$(SRCROOT)/LimitFree/PrefixHeader.pch";
 				INFOPLIST_FILE = LimitFree/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-l\"AFNetworking\"",
+					"-l\"DateTools\"",
+					"-l\"FMDB\"",
+					"-l\"KVNProgress\"",
+					"-l\"MBProgressHUD\"",
+					"-l\"MJRefresh\"",
+					"-l\"Masonry\"",
+					"-l\"SDWebImage\"",
+					"-l\"SocialInstagram\"",
+					"-l\"SocialLaiWang\"",
+					"-l\"SocialLine\"",
+					"-l\"SocialQQ\"",
+					"-l\"SocialSina\"",
+					"-l\"SocialSinaSSO\"",
+					"-l\"SocialTumblr\"",
+					"-l\"SocialWechat\"",
+					"-l\"SocialWhatsapp\"",
+					"-l\"UMSocial_Sdk_4.2.5\"",
+					"-l\"UMSocial_Sdk_Comment_4.2.5\"",
+					"-l\"WeChatSDK\"",
+					"-l\"WeiboSDK\"",
+					"-l\"YYModel\"",
+					"-l\"iconv\"",
+					"-l\"sqlite3\"",
+					"-l\"stdc++\"",
+					"-l\"z\"",
+					"-framework",
+					"\"CoreFoundation\"",
+					"-framework",
+					"\"CoreGraphics\"",
+					"-framework",
+					"\"CoreTelephony\"",
+					"-framework",
+					"\"Foundation\"",
+					"-framework",
+					"\"GLKit\"",
+					"-framework",
+					"\"ImageIO\"",
+					"-framework",
+					"\"MobileCoreServices\"",
+					"-framework",
+					"\"QuartzCore\"",
+					"-framework",
+					"\"Security\"",
+					"-framework",
+					"\"SystemConfiguration\"",
+					"-framework",
+					"\"TencentOpenAPI\"",
+					"-framework",
+					"\"UIKit\"",
+					"-ObjC",
+					"-lz",
+					"-framework",
+					Reveal,
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "me.chaosky.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
